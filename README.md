@@ -2,9 +2,9 @@
 
 Official Child Mind Institute logo files, hosted publicly so they can be linked or embedded directly.
 
-| Horizontal | Vertical |
-|---|---|
-| <img src="svg/ChildMindInstitute_Logo_Horizontal_RGB.svg" width="360"> | <img src="svg/ChildMindInstitute_Logo_Vertical_RGB.svg" width="200"> |
+| Horizontal | Vertical | Icon |
+|---|---|---|
+| <img src="svg/ChildMindInstitute_Logo_Horizontal_RGB.svg" width="360"> | <img src="svg/ChildMindInstitute_Logo_Vertical_RGB.svg" width="200"> | <img src="icon/ChildMindInstitute_Icon_RGB.svg" width="120"> |
 
 **Brand colors (RGB):** Blue `#0067A0` · Cyan `#00C1D4`
 
@@ -12,6 +12,7 @@ Official Child Mind Institute logo files, hosted publicly so they can be linked 
 
 - **Web, slides, docs:** `svg/` (scales to any size) or `png/` (transparent background, 3300 px wide).
 - **Print:** `eps/` — use `CMYK` or `PMS` versions.
+- **`icon/`:** the heads mark on its own, for favicons, app icons and avatars. SVG plus transparent PNGs at 16–1024 px and a `favicon.ico`.
 - **`jpg/`:** white background, for places that don't accept PNG/SVG.
 - **`KO` (knockout):** white logo for use on dark or colored backgrounds (it will look blank on white).
 
@@ -73,4 +74,16 @@ Example:
 - [`ChildMindInstitute_Logo_Vertical_OneColor_Blue_RGB.eps`](https://raw.githubusercontent.com/childmindresearch/logos/main/eps/ChildMindInstitute_Logo_Vertical_OneColor_Blue_RGB.eps)
 - [`ChildMindInstitute_Logo_Vertical_OneColor_KO.eps`](https://raw.githubusercontent.com/childmindresearch/logos/main/eps/ChildMindInstitute_Logo_Vertical_OneColor_KO.eps)
 - [`ChildMindInstitute_Logo_Vertical_PMS.eps`](https://raw.githubusercontent.com/childmindresearch/logos/main/eps/ChildMindInstitute_Logo_Vertical_PMS.eps)
+
+### icon
+
+- [`ChildMindInstitute_Icon_1024.png`](https://raw.githubusercontent.com/childmindresearch/logos/main/icon/ChildMindInstitute_Icon_1024.png)
+- [`ChildMindInstitute_Icon_16.png`](https://raw.githubusercontent.com/childmindresearch/logos/main/icon/ChildMindInstitute_Icon_16.png)
+- [`ChildMindInstitute_Icon_180.png`](https://raw.githubusercontent.com/childmindresearch/logos/main/icon/ChildMindInstitute_Icon_180.png)
+- [`ChildMindInstitute_Icon_192.png`](https://raw.githubusercontent.com/childmindresearch/logos/main/icon/ChildMindInstitute_Icon_192.png)
+- [`ChildMindInstitute_Icon_32.png`](https://raw.githubusercontent.com/childmindresearch/logos/main/icon/ChildMindInstitute_Icon_32.png)
+- [`ChildMindInstitute_Icon_48.png`](https://raw.githubusercontent.com/childmindresearch/logos/main/icon/ChildMindInstitute_Icon_48.png)
+- [`ChildMindInstitute_Icon_512.png`](https://raw.githubusercontent.com/childmindresearch/logos/main/icon/ChildMindInstitute_Icon_512.png)
+- [`ChildMindInstitute_Icon_RGB.svg`](https://raw.githubusercontent.com/childmindresearch/logos/main/icon/ChildMindInstitute_Icon_RGB.svg)
+- [`favicon.ico`](https://raw.githubusercontent.com/childmindresearch/logos/main/icon/favicon.ico)
 
